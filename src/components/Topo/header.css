@@ -1,0 +1,42 @@
+.topo{
+background-color: rgb(143, 248, 143);
+height: 150px;
+margin-top: 0%;
+
+
+}
+.bt{
+    width: 500;
+    height: 50px;
+    margin-top: 30px;
+    border-width: 3px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 15%;
+    margin: 10px;
+}
+.bt:hover{
+    transform: translateY(-5px);
+    cursor: pointer;
+}
+.img{
+    height: 150px;
+    position: absolute;
+    left: 0%;
+}
+.title{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    text-shadow: 50px;
+    margin-top: 0%;
+}
+.bt1{
+    right: 3%;
+    position: absolute; 
+    top: 50px; 
+    height: 55px;
+    width: 105px; 
+    border-radius: 10px;
+    background-color: brown;
+    color: blue;
+    font-size: 25px; 
+}
