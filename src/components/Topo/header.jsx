@@ -10,7 +10,7 @@ function Topo(){
             <button className="bt">Animais Selvagens</button>
             <button className="bt">Animais Dométicos</button>
             <button className="bt">Animais Venenosos</button>
-            <button className="bt">Animais Mamiferos</button>
+            <button className="bt">Animais Mamíferos</button>
         </div>
     )
 };
